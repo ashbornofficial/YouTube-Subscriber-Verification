@@ -1,5 +1,5 @@
 
-# ⚡ --- YouTube Subscribe Verification Gate
+# ⚡ --- YouTube Subscribe Verification Portal
 
 **A sleek, cyberpunk-inspired PHP web interface for screenshot-based
 YouTube subscription text checks.**

@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # ⚡ --- YouTube Subscribe Verification Gate
 
 **A sleek, cyberpunk-inspired PHP web interface for screenshot-based
@@ -164,10 +164,6 @@ Suggestions and improvements are welcome.
 3.  Make and test your changes.
 4.  Open a pull request describing the change.
 
-## 📄 [Ashborn] (#https://github.com/ashbornofficial)
+## 📄 [Ashborn](#-https://github.com/ashbornofficial)
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-**Built for a polished gaming/cyber aesthetic.**
-:::
